@@ -18,13 +18,13 @@ library(pheatmap)
 # Reset environment variables
 rm(list=ls())
 
-setwd("/home/felipe/Documents/DESEQ_LOM_DT")
+setwd("/home/felipevzps/Documentos/DESEQ_LOM_DT")
 
-targets<-read.csv("target.csv",header=TRUE)
+targets<-read.csv("target_without_3DT_1Control_LOM.csv",header=TRUE)
 rownames(targets)<-targets$SampleName
 targets
 
-files <- paste("/home/felipe/Documents/DESEQ_LOM_DT/quant/", targets$SampleName, "/quant.sf",sep="")
+files <- paste("/home/felipevzps/Documentos/DESEQ_LOM_DT/quant/", targets$SampleName, "/quant.sf",sep="")
 tx2gene<-read.delim("transcript2gene_atualizado.txt",header=FALSE)
 names(files) <- targets$SampleName
 all(file.exists(files))
@@ -66,8 +66,8 @@ library(ggrepel)
 
 plotPCA(vsd, intgroup=c("Condition","Time"),ntop=500) + geom_text(aes(label=name), vjust=2) + geom_point(size=1)
 
-dev.copy(png, "PCA_LOM_DT.png")
-dev.off()
+#dev.copy(png, "PCA_LOM_DT.png")
+#dev.off()
 
 ###
 
