@@ -1,0 +1,39 @@
+SampleName,Description,Condition,Time,Sample,Run
+LOM1_24_1_S28_L007,RNA-Seq of Chlamydomonas reinhardtii; control experiment,CONTROL,24,LOM1.24.1,1a
+LOM1_24_1_S28_L008,RNA-Seq of Chlamydomonas reinhardtii; control experiment,CONTROL,24,LOM1.24.1,2a
+LOM1_24_3_S37_L007,RNA-Seq of Chlamydomonas reinhardtii; control experiment,CONTROL,24,LOM1.24.3,3a
+LOM1_24_3_S37_L008,RNA-Seq of Chlamydomonas reinhardtii; control experiment,CONTROL,24,LOM1.24.3,4a
+LOM2_24_1_S29_L007,RNA-Seq of Chlamydomonas reinhardtii; TAP + 0.1M NaCL experiment,SALT,24,LOM2.24.1,5a
+LOM2_24_1_S29_L008,RNA-Seq of Chlamydomonas reinhardtii; TAP + 0.1M NaCL experiment,SALT,24,LOM2.24.1,6a
+LOM2_24_2_S30_L007,RNA-Seq of Chlamydomonas reinhardtii; TAP + 0.1M NaCL experiment,SALT,24,LOM2.24.2,7a
+LOM2_24_2_S30_L008,RNA-Seq of Chlamydomonas reinhardtii; TAP + 0.1M NaCL experiment,SALT,24,LOM2.24.2,8a
+LOM2_48_1_S32_L007,RNA-Seq of Chlamydomonas reinhardtii; TAP + 0.1M NaCL experiment,SALT,48,LOM2.48.1,9a
+LOM2_48_1_S32_L008,RNA-Seq of Chlamydomonas reinhardtii; TAP + 0.1M NaCL experiment,SALT,48,LOM2.48.1,10a
+LOM2_48_2_S33_L007,RNA-Seq of Chlamydomonas reinhardtii; TAP + 0.1M NaCL experiment,SALT,48,LOM2.48.2,11a
+LOM2_48_2_S33_L008,RNA-Seq of Chlamydomonas reinhardtii; TAP + 0.1M NaCL experiment,SALT,48,LOM2.48.2,12a
+LOM2_48_3_S34_L007,RNA-Seq of Chlamydomonas reinhardtii; TAP + 0.1M NaCL experiment,SALT,48,LOM2.48.3,13a
+LOM2_48_3_S34_L008,RNA-Seq of Chlamydomonas reinhardtii; TAP + 0.1M NaCL experiment,SALT,48,LOM2.48.3,14a
+DT12_1_S38_L007,RNA-Seq of Chlamydomonas reinhardtii; ??? experiment,?condition?,?time?,DT12.1.38,15a
+DT12_1_S38_L008,RNA-Seq of Chlamydomonas reinhardtii; ??? experiment,?condition?,?time?,DT12.1.38,16a
+DT12_2_S39_L007,RNA-Seq of Chlamydomonas reinhardtii; ??? experiment,?condition?,?time?,DT12.2.39,17a
+DT12_2_S39_L008,RNA-Seq of Chlamydomonas reinhardtii; ??? experiment,?condition?,?time?,DT12.2.39,18a
+DT12_3_S40_L007,RNA-Seq of Chlamydomonas reinhardtii; ??? experiment,?condition?,?time?,DT12.3.40,19a
+DT12_3_S40_L008,RNA-Seq of Chlamydomonas reinhardtii; ??? experiment,?condition?,?time?,DT12.3.40,20a
+DT24_1_S41_L007,RNA-Seq of Chlamydomonas reinhardtii; ??? experiment,?condition?,?time?,DT24.1.41,21a
+DT24_1_S41_L008,RNA-Seq of Chlamydomonas reinhardtii; ??? experiment,?condition?,?time?,DT24.1.41,22a
+DT24_1T_S44_L007,RNA-Seq of Chlamydomonas reinhardtii; ??? experiment,?condition?,?time?,DT24.1T.44,23a
+DT24_1T_S44_L008,RNA-Seq of Chlamydomonas reinhardtii; ??? experiment,?condition?,?time?,DT24.1T.44,24a
+DT24_2_S42_L007,RNA-Seq of Chlamydomonas reinhardtii; ??? experiment,?condition?,?time?,DT24.2.42,25a
+DT24_2_S42_L008,RNA-Seq of Chlamydomonas reinhardtii; ??? experiment,?condition?,?time?,DT24.2.42,26a
+DT24_2T_S45_L007,RNA-Seq of Chlamydomonas reinhardtii; ??? experiment,?condition?,?time?,DT24.2T.45,27a
+DT24_2T_S45_L008,RNA-Seq of Chlamydomonas reinhardtii; ??? experiment,?condition?,?time?,DT24.2T.45,28a
+DT24_3_S43_L007,RNA-Seq of Chlamydomonas reinhardtii; ??? experiment,?condition?,?time?,DT24.3.43,29a
+DT24_3_S43_L008,RNA-Seq of Chlamydomonas reinhardtii; ??? experiment,?condition?,?time?,DT24.3.43,30a
+DT24_3T_S46_L007,RNA-Seq of Chlamydomonas reinhardtii; ??? experiment,?condition?,?time?,DT24.3T.46,31a
+DT24_3T_S46_L008,RNA-Seq of Chlamydomonas reinhardtii; ??? experiment,?condition?,?time?,DT24.3T.46,32a
+DT48_1_S47_L007,RNA-Seq of Chlamydomonas reinhardtii; ??? experiment,?condition?,?time?,DT48.1.47,33a
+DT48_1_S47_L008,RNA-Seq of Chlamydomonas reinhardtii; ??? experiment,?condition?,?time?,DT48.1.47,34a
+DT48_2_S48_L007,RNA-Seq of Chlamydomonas reinhardtii; ??? experiment,?condition?,?time?,DT48.2.48,35a
+DT48_2_S48_L008,RNA-Seq of Chlamydomonas reinhardtii; ??? experiment,?condition?,?time?,DT48.2.48,36a
+DT48_3_S49_L007,RNA-Seq of Chlamydomonas reinhardtii; ??? experiment,?condition?,?time?,DT48.3.49,37a
+DT48_3_S49_L008,RNA-Seq of Chlamydomonas reinhardtii; ??? experiment,?condition?,?time?,DT48.3.49,38a

@@ -1,0 +1,22 @@
+{
+    "read_files": "[ ../DT_trimmed_reads/DT12_2_S39_L007_001_R1_trimmed.fastq.gz, ../DT_trimmed_reads/DT12_2_S39_L007_001_R2_trimmed.fastq.gz]",
+    "expected_format": "ISR",
+    "compatible_fragment_ratio": 1.0,
+    "num_compatible_fragments": 9244626,
+    "num_assigned_fragments": 9244626,
+    "num_frags_with_concordant_consistent_mappings": 9215733,
+    "num_frags_with_inconsistent_or_orphan_mappings": 31371,
+    "strand_mapping_bias": 0.00005338411334358699,
+    "MSF": 0,
+    "OSF": 0,
+    "ISF": 492,
+    "MSR": 0,
+    "OSR": 0,
+    "ISR": 9215733,
+    "SF": 16411,
+    "SR": 14468,
+    "MU": 0,
+    "OU": 0,
+    "IU": 0,
+    "U": 0
+}

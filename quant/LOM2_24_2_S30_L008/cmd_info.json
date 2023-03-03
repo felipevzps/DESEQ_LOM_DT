@@ -1,0 +1,11 @@
+{
+    "salmon_version": "1.8.0",
+    "index": "Creinhardtii_index",
+    "libType": "A",
+    "mates1": "../trimmed_reads/LOM2_24_2_S30_L008_001_R1_trimmed.fastq.gz",
+    "mates2": "../trimmed_reads/LOM2_24_2_S30_L008_001_R2_trimmed.fastq.gz",
+    "threads": "1",
+    "validateMappings": [],
+    "output": "transcripts_quant_LOM2_24_2_S30_L008",
+    "auxDir": "aux_info"
+}

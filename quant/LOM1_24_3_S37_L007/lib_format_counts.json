@@ -1,0 +1,22 @@
+{
+    "read_files": "[ ../trimmed_reads/LOM1_24_3_S37_L007_001_R1_trimmed.fastq.gz, ../trimmed_reads/LOM1_24_3_S37_L007_001_R2_trimmed.fastq.gz]",
+    "expected_format": "ISR",
+    "compatible_fragment_ratio": 1.0,
+    "num_compatible_fragments": 12210706,
+    "num_assigned_fragments": 12210706,
+    "num_frags_with_concordant_consistent_mappings": 12165636,
+    "num_frags_with_inconsistent_or_orphan_mappings": 52257,
+    "strand_mapping_bias": 0.0000332893831280036,
+    "MSF": 0,
+    "OSF": 0,
+    "ISF": 405,
+    "MSR": 0,
+    "OSR": 0,
+    "ISR": 12165636,
+    "SF": 26286,
+    "SR": 25566,
+    "MU": 0,
+    "OU": 0,
+    "IU": 0,
+    "U": 0
+}
